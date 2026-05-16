@@ -1,4 +1,4 @@
-# ☕ Cafine — AI Caffeine Health Assistant
+# Cafine — AI Caffeine Health Assistant
 
 A static frontend web app that helps you track your daily caffeine intake using an AI-powered chat assistant. Built with vanilla HTML, CSS, and JavaScript — powered by the Gemini API.
 
